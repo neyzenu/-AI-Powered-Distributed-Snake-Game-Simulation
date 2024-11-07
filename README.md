@@ -1,1 +1,1 @@
-# -AI-Powered-Distributed-Snake-Game-Simulation
+# AI-Powered-Distributed-Snake-Game-Simulation
